@@ -11,7 +11,7 @@ my arch linux repo
 SigLevel = Optional DatabaseOptional
 Server = https://raw.githubusercontent.com/AbdelrhmanNile/pirate-arch-repo/main/x86_64
 ```
-then save
+then save <br />
 3- update pacman databases [and your packages, do not do partial updates]
 ```
 sudo pacman -Syyu
